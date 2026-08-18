@@ -28,3 +28,4 @@ Característica: Inicio de sesión en CiberBank
       | usuario   | clave       | mensaje                                |
       | jaime     | otraClave   | Credenciales inválidas                 |
       | bloqueado | Cibertec123 | Usuario bloqueado. Contacte a soporte  |
+      |           |             | El usuario es obligatorio              |
